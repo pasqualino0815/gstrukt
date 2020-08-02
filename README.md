@@ -7,4 +7,5 @@ The purpose of it to enable the user to draw Nassi-Shneiderman-Diagramm (https:/
 Why did I choose this kind of project? I liked programming and I was annoyed that there was no true intuitive Software on the Market that enabled me to do this without learning the complicated and un-intuitive programs available at that time.
 
 How does it look like? 
-![Test Image 6](master/Images/screenshot_1.png)
+
+![Screenshot 1](Images/screenshot_1.png)
