@@ -1,0 +1,3 @@
+a; ;Q;Strukt 1%%%
+b; ;F;pour I <- 1 à 50%%%
+ba; ;Q;A <- Random(50)+1%%%écrire 'Nombre A: ',A%%%B <- Random(60)+1%%%écrire 'Nombre B: ',B%%%
