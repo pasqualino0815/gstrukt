@@ -9,3 +9,9 @@ Why did I choose this kind of project? I liked programming and I was annoyed tha
 How does it look like? 
 
 ![Screenshot 1](Images/screenshot_1.png)
+
+I learned a lot by creating this piece of software (first realworld use of Recursion), which was still used actively in the High school many years.
+
+Still remembering that there was a bug when using too many 'if' conditions combinend with other structures ^^, never figured out, challenge for you? ;)
+
+## Enjoy
